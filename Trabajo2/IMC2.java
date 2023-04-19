@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class IMC {
+public class IMC2 {
     //Colores ANSI
     static String textoRojo            ="\033[31m";            
     static String textoVerde           ="\033[32m";         
