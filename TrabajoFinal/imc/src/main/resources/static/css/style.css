@@ -1,0 +1,24 @@
+body {
+    background-color: #38acdd;
+}
+
+.titulo, .titulo2, p {
+    padding: 0.5em;
+}
+
+.titulo {
+    border-radius: 0.15em;
+    background-color: white;
+    opacity: 0.5;
+}
+
+/* Formulario */
+.etiqueta {
+    color: white;
+}
+
+.cajaTexto {
+    padding: 1em;
+    color: white;
+    background-color: #38acdd;
+}
